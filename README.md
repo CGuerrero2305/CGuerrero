@@ -60,17 +60,3 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CamiloGuerrero&theme=gruvbox" alt="Trofeos" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CamiloGuerrero&show_icons=true&locale=es&theme=gruvbox" alt="Estadísticas de GitHub" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CamiloGuerrero&layout=compact&locale=es&theme=gruvbox" alt="Lenguajes más usados" width="350" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=CamiloGuerrero&theme=gruvbox&hide_border=true&area=true" alt="Gráfico de actividad" />
-</p>
